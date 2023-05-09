@@ -1,8 +1,4 @@
-# Final-Project
-
-
-
-## State Estimation: Investigating the Issues During Indoor-Outdoor Transitions 
+# State Estimation: Investigating the Issues During Indoor-Outdoor Transitions 
 
  **Team D-FAST**: Damla Leblebicioglu, Francis Jacob Kalliath, Arun Madhusudhanan, Shankara Narayanan Vaidyanathan, Tejaswini Dilip Deore
 
